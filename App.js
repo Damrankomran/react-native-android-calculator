@@ -17,6 +17,7 @@ class App extends Component{
 		this.operations = ['DEL','+','-','*','/']
 	}
 
+	//Deneme deneme
 
 	//işlemin sonucunu ekranda göstericek
 	calculateResult(){
